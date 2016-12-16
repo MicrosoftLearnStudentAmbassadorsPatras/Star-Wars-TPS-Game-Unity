@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: c0f38db1fb62a29469a941fe869135c1
+timeCreated: 1481467318
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: alarm
+    100002: clank1
+    100004: clank2
+    100006: Door
+    100008: door control panel
+    100010: door panel screen
+    100012: floor
+    100014: floor light strip
+    100016: floor light strip.001
+    100018: floor light strip.002
+    100020: floor light strip.003
+    100022: floor light strip.004
+    100024: floor light strip.005
+    100026: floor piece
+    100028: frame 2
+    100030: frame 3
+    100032: roof
+    100034: roof lamp
+    100036: roof piece
+    100038: roof pipe
+    100040: //RootNode
+    100042: side lamp
+    100044: Wall Door
+    100046: Wall window
+    100048: window
+    400000: alarm
+    400002: clank1
+    400004: clank2
+    400006: Door
+    400008: door control panel
+    400010: door panel screen
+    400012: floor
+    400014: floor light strip
+    400016: floor light strip.001
+    400018: floor light strip.002
+    400020: floor light strip.003
+    400022: floor light strip.004
+    400024: floor light strip.005
+    400026: floor piece
+    400028: frame 2
+    400030: frame 3
+    400032: roof
+    400034: roof lamp
+    400036: roof piece
+    400038: roof pipe
+    400040: //RootNode
+    400042: side lamp
+    400044: Wall Door
+    400046: Wall window
+    400048: window
+    2300000: alarm
+    2300002: clank1
+    2300004: clank2
+    2300006: Door
+    2300008: door control panel
+    2300010: door panel screen
+    2300012: floor
+    2300014: floor light strip
+    2300016: floor light strip.001
+    2300018: floor light strip.002
+    2300020: floor light strip.003
+    2300022: floor light strip.004
+    2300024: floor light strip.005
+    2300026: floor piece
+    2300028: frame 2
+    2300030: frame 3
+    2300032: roof
+    2300034: roof lamp
+    2300036: roof piece
+    2300038: roof pipe
+    2300040: side lamp
+    2300042: Wall Door
+    2300044: Wall window
+    2300046: window
+    3300000: alarm
+    3300002: clank1
+    3300004: clank2
+    3300006: Door
+    3300008: door control panel
+    3300010: door panel screen
+    3300012: floor
+    3300014: floor light strip
+    3300016: floor light strip.001
+    3300018: floor light strip.002
+    3300020: floor light strip.003
+    3300022: floor light strip.004
+    3300024: floor light strip.005
+    3300026: floor piece
+    3300028: frame 2
+    3300030: frame 3
+    3300032: roof
+    3300034: roof lamp
+    3300036: roof piece
+    3300038: roof pipe
+    3300040: side lamp
+    3300042: Wall Door
+    3300044: Wall window
+    3300046: window
+    4300000: side lamp
+    4300002: roof
+    4300004: roof piece
+    4300006: floor piece
+    4300008: floor
+    4300010: floor light strip.005
+    4300012: floor light strip.004
+    4300014: floor light strip.003
+    4300016: floor light strip.002
+    4300018: floor light strip.001
+    4300020: floor light strip
+    4300022: clank2
+    4300024: clank1
+    4300026: roof pipe
+    4300028: Wall window
+    4300030: frame 2
+    4300032: window
+    4300034: Wall Door
+    4300036: door control panel
+    4300038: door panel screen
+    4300040: frame 3
+    4300042: alarm
+    4300044: Door
+    4300046: roof lamp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

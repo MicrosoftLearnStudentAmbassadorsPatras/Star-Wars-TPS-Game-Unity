@@ -1,0 +1,60 @@
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Assembly-CSharp.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEditor.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.UI.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.VR.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Mono.Cecil.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Unity.DataContract.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Unity.CecilTools.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.xml
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEditor.xml
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.UI.xml
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.Analytics.xml
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.VR.xml
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\obj\Debug\Assembly-CSharp.dll
+G:\TempWorkspace\Unity 2016\Sci-fi scene (SG-SW)\obj\Debug\Assembly-CSharp.pdb
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Assembly-CSharp.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEditor.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.Analytics.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.HoloLens.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.Networking.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.UI.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.VR.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Mono.Cecil.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Unity.SerializationLogic.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Unity.DataContract.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Unity.UNetWeaver.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Unity.CecilTools.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.xml
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEditor.xml
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.UI.xml
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.Networking.xml
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.Analytics.xml
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.HoloLens.xml
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\Temp\bin\Debug\UnityEngine.VR.xml
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\obj\Debug\Assembly-CSharp.dll
+G:\DropBox\Dropbox\SG Unity 2016\Unity 2016 final\Sci-fi scene (SG-SW)\obj\Debug\Assembly-CSharp.pdb

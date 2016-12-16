@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 564f395061e46ac4c9fcf86f92d1748e
+timeCreated: 1481585634
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: clank1 roof
+    100002: clank2 roof
+    100004: floor corner
+    100006: floor corner light strip
+    100008: floor corner light strip.001
+    100010: floor corner light strip.002
+    100012: floor corner light strip.003
+    100014: floor corner light strip.004
+    100016: floor corner light strip.005
+    100018: frame 1 corner
+    100020: frame 2 corner
+    100022: frame 3 corner
+    100024: roof corner
+    100026: roof lamp corner
+    100028: roof pipe corner
+    100030: //RootNode
+    100032: side lamp corner
+    100034: Wall corner
+    400000: clank1 roof
+    400002: clank2 roof
+    400004: floor corner
+    400006: floor corner light strip
+    400008: floor corner light strip.001
+    400010: floor corner light strip.002
+    400012: floor corner light strip.003
+    400014: floor corner light strip.004
+    400016: floor corner light strip.005
+    400018: frame 1 corner
+    400020: frame 2 corner
+    400022: frame 3 corner
+    400024: roof corner
+    400026: roof lamp corner
+    400028: roof pipe corner
+    400030: //RootNode
+    400032: side lamp corner
+    400034: Wall corner
+    2300000: clank1 roof
+    2300002: clank2 roof
+    2300004: floor corner
+    2300006: floor corner light strip
+    2300008: floor corner light strip.001
+    2300010: floor corner light strip.002
+    2300012: floor corner light strip.003
+    2300014: floor corner light strip.004
+    2300016: floor corner light strip.005
+    2300018: frame 1 corner
+    2300020: frame 2 corner
+    2300022: frame 3 corner
+    2300024: roof corner
+    2300026: roof lamp corner
+    2300028: roof pipe corner
+    2300030: side lamp corner
+    2300032: Wall corner
+    3300000: clank1 roof
+    3300002: clank2 roof
+    3300004: floor corner
+    3300006: floor corner light strip
+    3300008: floor corner light strip.001
+    3300010: floor corner light strip.002
+    3300012: floor corner light strip.003
+    3300014: floor corner light strip.004
+    3300016: floor corner light strip.005
+    3300018: frame 1 corner
+    3300020: frame 2 corner
+    3300022: frame 3 corner
+    3300024: roof corner
+    3300026: roof lamp corner
+    3300028: roof pipe corner
+    3300030: side lamp corner
+    3300032: Wall corner
+    4300000: frame 3 corner
+    4300002: floor corner light strip.005
+    4300004: floor corner
+    4300006: floor corner light strip.004
+    4300008: floor corner light strip.002
+    4300010: floor corner light strip
+    4300012: floor corner light strip.001
+    4300014: floor corner light strip.003
+    4300016: frame 2 corner
+    4300018: clank1 roof
+    4300020: clank2 roof
+    4300022: roof pipe corner
+    4300024: side lamp corner
+    4300026: frame 1 corner
+    4300028: roof lamp corner
+    4300030: roof corner
+    4300032: Wall corner
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
